@@ -1,0 +1,12 @@
+09/07/2017;10:00;Reemplazo Mouse/Teclado;Error25
+
+09/07/2017;10:12;PCs;Error37
+
+09/07/2017;10:23;Redes;Error48
+
+09/07/2017;10:32;Impresoras;Error57
+
+09/07/2017;10:47;Software gestion;Error72
+
+09/07/2017;10:48;PCs;Error73
+

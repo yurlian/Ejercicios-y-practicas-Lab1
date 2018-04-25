@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1501188764 source:d:\final programacion i\allegue_jose_programacion_i\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1501188764 d:\final programacion i\allegue_jose_programacion_i\arraylist.h
+
+1501181710 source:d:\final programacion i\allegue_jose_programacion_i\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1501181710 d:\final programacion i\allegue_jose_programacion_i\funciones.h
+
+1501193934 source:d:\final programacion i\allegue_jose_programacion_i\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+	"lib.h"
+
+1501193483 source:d:\final programacion i\allegue_jose_programacion_i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"lib.h"
+	"funciones.h"
+
+1501194683 d:\final programacion i\allegue_jose_programacion_i\lib.h
+	"ArrayList.h"
+

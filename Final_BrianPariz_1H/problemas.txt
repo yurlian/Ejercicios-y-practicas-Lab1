@@ -1,0 +1,7 @@
+1;PCs;daniel@soporte.com.ar
+2;Software gestion;hugo@soporte.com.ar
+3;Office;lea@soporte.com.ar
+4;Impresoras;carla@soporte.com.ar
+5;Redes;carlos@soporte.com.ar
+6;Reemplazo Mouse/Teclado;marcos@soporte.com.ar
+7;Usuarios y Password;mateo@soporte.com.ar

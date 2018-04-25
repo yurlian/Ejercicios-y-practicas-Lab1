@@ -1,0 +1,78 @@
+09/07/2017;09:33;PCs;Error-2
+
+09/07/2017;09:41;Redes;Error6
+
+09/07/2017;09:42;Reemplazo Mouse/Teclado;Error7
+
+09/07/2017;09:43;Redes;Error8
+
+09/07/2017;09:44;Reemplazo Mouse/Teclado;Error9
+
+09/07/2017;09:49;PCs;Error14
+
+09/07/2017;09:50;Usuarios y Password;Error15
+
+09/07/2017;09:53;Usuarios y Password;Error18
+
+09/07/2017;09:54;Reemplazo Mouse/Teclado;Error19
+
+09/07/2017;09:56;Office;Error21
+
+09/07/2017;09:57;Usuarios y Password;Error22
+
+09/07/2017;09:58;Software gestion;Error23
+
+09/07/2017;09:59;PCs;Error24
+
+09/07/2017;10:07;Usuarios y Password;Error32
+
+09/07/2017;10:08;Redes;Error33
+
+09/07/2017;10:13;Redes;Error38
+
+09/07/2017;10:14;Impresoras;Error39
+
+09/07/2017;10:18;PCs;Error43
+
+09/07/2017;10:20;Software gestion;Error45
+
+09/07/2017;10:22;Impresoras;Error47
+
+09/07/2017;10:24;Reemplazo Mouse/Teclado;Error49
+
+09/07/2017;10:27;Office;Error52
+
+09/07/2017;10:29;Software gestion;Error54
+
+09/07/2017;10:31;Redes;Error56
+
+09/07/2017;10:33;Redes;Error58
+
+09/07/2017;10:39;Office;Error64
+
+09/07/2017;10:40;Impresoras;Error65
+
+09/07/2017;10:45;Office;Error70
+
+09/07/2017;10:46;Impresoras;Error71
+
+09/07/2017;10:49;Redes;Error74
+
+09/07/2017;10:50;PCs;Error75
+
+09/07/2017;10:51;Software gestion;Error76
+
+09/07/2017;10:52;Usuarios y Password;Error77
+
+09/07/2017;11:00;Reemplazo Mouse/Teclado;Error85
+
+09/07/2017;11:01;Usuarios y Password;Error86
+
+09/07/2017;11:02;Impresoras;Error87
+
+09/07/2017;11:04;Impresoras;Error89
+
+09/07/2017;11:06;Impresoras;Error91
+
+09/07/2017;11:09;Reemplazo Mouse/Teclado;Error94
+

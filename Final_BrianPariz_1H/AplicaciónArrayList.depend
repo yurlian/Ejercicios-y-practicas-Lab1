@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1499285248 source:c:\users\brian_pariz\desktop\aplicaciónarraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498266352 c:\users\brian_pariz\desktop\aplicaciónarraylist\arraylist.h
+
+1499365390 source:c:\users\brian_pariz\desktop\aplicaciónarraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1499364352 c:\users\brian_pariz\desktop\aplicaciónarraylist\funciones.h
+
+1499365142 source:c:\users\brian_pariz\desktop\aplicaciónarraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1499285248 source:c:\users\brian_pariz\google drive\aplicaciónarraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498266352 c:\users\brian_pariz\google drive\aplicaciónarraylist\arraylist.h
+
+1499365390 source:c:\users\brian_pariz\google drive\aplicaciónarraylist\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1499364352 c:\users\brian_pariz\google drive\aplicaciónarraylist\funciones.h
+
+1499365415 source:c:\users\brian_pariz\google drive\aplicaciónarraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1499285250 source:d:\final_brianpariz_1h\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498266352 d:\final_brianpariz_1h\arraylist.h
+
+1501803291 source:d:\final_brianpariz_1h\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+
+1501803348 d:\final_brianpariz_1h\funciones.h
+
+1501802475 source:d:\final_brianpariz_1h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Funciones.h"
+

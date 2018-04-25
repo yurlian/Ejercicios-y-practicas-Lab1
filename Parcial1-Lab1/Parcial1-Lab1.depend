@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494426142 source:d:\parcial1-lab1-alviggi\parcial1-lab1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494426142 d:\parcial1-lab1-alviggi\parcial1-lab1\funciones.h
+
+1494426184 source:d:\parcial1-lab1-alviggi\parcial1-lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
