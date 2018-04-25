@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524063931 source:d:\estructuras3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1524063471 d:\estructuras3\empleado.h
+
+1524532721 source:c:\users\alumno\desktop\yurlian1\1 hoy\estructuras3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1524532721 c:\users\alumno\desktop\yurlian1\1 hoy\estructuras3\empleado.h
+

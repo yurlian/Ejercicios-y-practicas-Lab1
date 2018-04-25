@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1460746297 source:/home/mauro/Documentos/workspace_c/utest/Input/input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1460745793 source:/home/mauro/Documentos/workspace_c/utest/Input/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/input.h"
+
+1460746095 /home/mauro/Documentos/workspace_c/utest/Input/inc/input.h
+
